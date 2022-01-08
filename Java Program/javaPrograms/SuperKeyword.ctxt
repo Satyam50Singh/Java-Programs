@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SuperKeyword
+comment1.params=
+comment1.target=Parent()
+comment2.params=i
+comment2.target=Parent(int)
+comment3.params=
+comment3.target=void\ Naming()
+comment4.params=l\ b
+comment4.target=void\ Area(int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

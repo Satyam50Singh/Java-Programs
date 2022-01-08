@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Challenge
+comment1.params=l\ b
+comment1.target=void\ rectangle(float,\ float)
+comment2.params=b\ h
+comment2.target=void\ triangleA(float,\ float)
+comment3.params=s1\ s2\ s3
+comment3.target=void\ triangleP(float,\ float,\ float)
+comment4.params=r
+comment4.target=void\ circle(float)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

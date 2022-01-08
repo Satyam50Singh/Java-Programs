@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SquareRootCubeRoot
+comment1.params=
+comment1.target=void\ square()
+comment2.params=
+comment2.target=void\ cube()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ImportKeyword
+comment1.params=r
+comment1.target=void\ setRollno(int)
+comment2.params=n
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=int\ getRollno()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5

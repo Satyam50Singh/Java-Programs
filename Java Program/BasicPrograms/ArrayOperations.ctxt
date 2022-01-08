@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ArrayOperations
+comment1.params=S1
+comment1.target=void\ getArray(java.util.Scanner)
+comment10.params=
+comment10.target=void\ average()
+comment11.params=
+comment11.target=void\ primeNumbers()
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ showArray()
+comment3.params=
+comment3.target=void\ squareCube()
+comment4.params=
+comment4.target=void\ arrayReverse()
+comment5.params=
+comment5.target=void\ evenOdd()
+comment6.params=
+comment6.target=void\ maximumNo()
+comment7.params=
+comment7.target=void\ minimumNo()
+comment8.params=
+comment8.target=void\ swap()
+comment9.params=
+comment9.target=void\ replace()
+numComments=13

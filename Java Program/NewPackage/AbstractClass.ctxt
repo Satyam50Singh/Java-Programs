@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AbstractClass
+comment1.params=
+comment1.target=void\ fun1()
+comment2.params=
+comment2.target=void\ fun2()
+comment3.params=
+comment3.target=void\ fun3()
+comment4.params=
+comment4.target=void\ fun4()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FindClosestNumber
+comment1.params=S1
+comment1.target=Neighbour(java.util.Scanner)
+comment2.params=
+comment2.target=void\ getArray()
+comment3.params=
+comment3.target=void\ sortArray()
+comment4.params=num
+comment4.target=int\ nearestNumber(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

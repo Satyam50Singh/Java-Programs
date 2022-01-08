@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ByteStreamExample
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FileOSExample\ here.\r\n\r\n\ @author\ (Satyam\ Singh)\r\n\ @version\ (23-01-2021)\r\n\ \r\n\ A\ program\ to\ create\ a\ file\ and\ also\ write\ and\ read\ data\ from\ the\ file.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

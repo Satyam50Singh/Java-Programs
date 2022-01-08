@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Overridding
+comment1.params=
+comment1.target=Example1()
+comment2.params=name
+comment2.target=void\ Fun(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

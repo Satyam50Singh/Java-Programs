@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SimpleInterest
+comment0.text=Program\ to\ Calculate\ the\ Simple\ Interest.
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p\ r\ t
+comment2.target=float\ simpleInterest(int,\ int,\ float)
+numComments=3

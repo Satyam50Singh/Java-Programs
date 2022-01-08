@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HierarchialInheritance
+comment1.params=n\ c\ m\ V
+comment1.target=void\ getData(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ showDetails()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

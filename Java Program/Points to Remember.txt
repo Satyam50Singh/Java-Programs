@@ -1,0 +1,20 @@
+If u want to create a new package by using cmd.
+then 
+	-firstly create a (.java) file and write efficient code in it.
+	-then set the path for operating system
+	
+		Control Panel->System->Advanced System Settings->Click on Advance->Environment variable->Create new vraiable
+	
+	-Copy the path where tha (java.exe) file is saved and paste it into variable path. and your new environment variable will be created.
+
+	then we can compile our (.java) from any where in the pc.
+	Now compile by the command
+
+	-->javac -d . Name of (.java) file
+
+	after successfull compilation it will create package for u at the same location,
+	now Execute the file.
+	-->java Package_Name.File_Name
+
+and your output will be on your screen.
+-------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,3 @@
+Welcome to my new writing program.
+Some Numbers : 10 98
+Some Special characters : ^##%*%&$@#@

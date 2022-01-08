@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=AreaAndPerimeter
+comment1.params=l\ b
+comment1.target=void\ rectangle(float,\ float)
+comment10.params=s1\ s2\ d
+comment10.target=void\ traperziumP(float,\ float,\ float)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=s
+comment2.target=void\ square(float)
+comment3.params=b\ h
+comment3.target=void\ triangleA(float,\ float)
+comment4.params=s1\ s2\ s3
+comment4.target=void\ triangleP(float,\ float,\ float)
+comment5.params=r
+comment5.target=void\ circle(float)
+comment6.params=b\ h
+comment6.target=void\ rhombusA(float,\ float)
+comment7.params=s
+comment7.target=void\ rhombusP(float)
+comment8.params=b\ vh
+comment8.target=void\ parallelogramA(float,\ float)
+comment9.params=s1\ s2
+comment9.target=void\ parallelogramP(float,\ float)
+numComments=12

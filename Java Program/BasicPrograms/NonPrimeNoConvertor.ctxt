@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NonPrimeNoConvertor
+comment0.text=\ Program\ to\ insert\ n\ values\ in\ an\ check\ and\ check\ all\ the\ no.s\ are\ prime\ or\ not,\r\nif\ no.\ is\ non\ prime\ then\ convert\ it\ into\ nearest\ prime\ no.\ of\ the\ same\ no.
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

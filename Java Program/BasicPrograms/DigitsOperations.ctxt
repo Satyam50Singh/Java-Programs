@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DigitsOperations
+comment1.params=S1
+comment1.target=void\ getNumber(java.util.Scanner)
+comment2.params=
+comment2.target=int\ countDigit()
+comment3.params=
+comment3.target=void\ countDigitEvenOdd()
+comment4.params=
+comment4.target=int\ sumDigit()
+comment5.params=
+comment5.target=void\ sumEvenDigit()
+comment6.params=
+comment6.target=int\ noReverse()
+comment7.params=
+comment7.target=int\ noPrimeDigit()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

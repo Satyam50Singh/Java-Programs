@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=VoteEligibility
+comment0.text=Program\ to\ check\ a\ person\ is\ eligible\ for\ voting\ or\ not\ by\ using\ ternary\ operator.
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

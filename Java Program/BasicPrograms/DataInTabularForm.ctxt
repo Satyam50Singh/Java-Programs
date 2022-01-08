@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DataInTabularForm
+comment1.params=S1\ n
+comment1.target=Student(java.util.Scanner,\ byte)
+comment2.params=
+comment2.target=void\ getData()
+comment3.params=
+comment3.target=void\ showData()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

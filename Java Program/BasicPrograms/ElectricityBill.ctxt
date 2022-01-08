@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ElectricityBill
+comment1.params=S1
+comment1.target=void\ getCustumerDetail(java.util.Scanner)
+comment2.params=
+comment2.target=void\ calculateBill()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

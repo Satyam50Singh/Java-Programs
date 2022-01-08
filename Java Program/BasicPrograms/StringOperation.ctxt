@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StringOperation
+comment1.params=S1
+comment1.target=void\ getString(java.util.Scanner)
+comment2.params=
+comment2.target=void\ reverseString()
+comment3.params=
+comment3.target=void\ countingCharacters()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

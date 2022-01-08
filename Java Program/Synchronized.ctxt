@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Synchronized
+comment1.params=
+comment1.target=Account()
+comment2.params=amt
+comment2.target=boolean\ isSufficient(int)
+comment3.params=amt
+comment3.target=void\ withdrawal(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

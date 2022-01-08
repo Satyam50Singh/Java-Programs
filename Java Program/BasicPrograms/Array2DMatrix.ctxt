@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Array2DMatrix
+comment1.params=S1
+comment1.target=void\ getMatrix(java.util.Scanner)
+comment2.params=
+comment2.target=void\ addition()
+comment3.params=
+comment3.target=void\ subtraction()
+comment4.params=
+comment4.target=void\ multiplication()
+comment5.params=
+comment5.target=void\ division()
+comment6.params=
+comment6.target=void\ sumOfElements()
+comment7.params=
+comment7.target=void\ transpose()
+comment8.params=S1
+comment8.target=void\ multiply(java.util.Scanner)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

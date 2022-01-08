@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EvenOddNos
+comment0.text=Program\ to\ Print\ Even\ and\ Odd\ no.s\ from\ 1\ to\ n.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

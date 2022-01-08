@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LetterRepeatCount
+comment0.text=Program\ to\ count\ the\ repetition\ of\ letter\ in\ a\ string.
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

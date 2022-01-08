@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TablesNoBy7
+comment0.text=Program\ to\ print\ tables\ of\ those\ no.s\ which\ are\ divided\ by\ 7\ upto\ n.
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

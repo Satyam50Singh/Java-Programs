@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ConstChaining
+comment1.params=
+comment1.target=Fruits()
+comment2.params=d
+comment2.target=Fruits(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Initialiser
+comment0.text=\r\n\ Initialisers\ are\ of\ two\ typs\ \:Instance,Static\r\nInstance\ initialser\ is\ run\ for\ every\ objects.\r\nStatic\ Initialiser\ is\ only\ for\ class\ so\ it\ execute\ only\ a\ sinle\ time.\r\n
+comment1.params=
+comment1.target=Initialiser()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

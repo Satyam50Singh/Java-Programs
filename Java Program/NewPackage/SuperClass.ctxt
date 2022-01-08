@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SuperClass
+comment1.params=
+comment1.target=A()
+comment2.params=x
+comment2.target=A(int)
+comment3.params=
+comment3.target=void\ fun1()
+comment4.params=
+comment4.target=void\ fun2()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
