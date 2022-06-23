@@ -5,7 +5,7 @@ package javaPrograms;
  *this object reference is a local variable in instance member method referening the caller object.
  *this is not passed when we call static member fns.
  */
-class Example 
+class Demo 
 {
     private int l,b,h;  //Here l,b,h are Instance Variable
     public void Fun(int l,int b,int h)  //Here l,b,h are Local Variable
@@ -19,7 +19,7 @@ public class ThisKeyword
 {
     public static void main(String []args)
     {
-        Example obj=new Example();
+        Demo obj=new Demo();
         obj.Fun(Integer.parseInt(args[0]),Integer.parseInt(args[1]),Integer.parseInt(args[2]));
     }
 }
